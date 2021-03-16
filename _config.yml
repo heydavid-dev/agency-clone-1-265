@@ -99,15 +99,15 @@ contact:
   title: Contact Us
   description: Lorem ipsum dolor sit amet consectetur.
 contact-list:
-- title: envelope
+- title: search
   url: mailto:someone@example.com
-- title: phone
+- title: search
   url: tel:123-456-7890
-- title: whatsapp
+- title: search
   url: https://wa.me/1234567890
-- title: map-marker
+- title: search
   url: https://goo.gl/maps/cb49MvbmdRehc7Zf9
-- title: twitter
+- title: search
   url: https://twitter.com
 address:
 - line: 3481 Melrose Place
