@@ -14,22 +14,22 @@ services:
   description: Lorem ipsum dolor sit amet consectetur.
 services-list:
 - name: E-Commerce
-  icon: shopping-cart
+  icon: search
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
 - name: Responsive Design
-  icon: laptop
+  icon: search
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
 - name: Web Security
-  icon: lock
+  icon: search
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime
     quam architecto quo inventore harum ex magni, dicta impedit.
 portfolio:
   title: Portfolio
   description: Lorem ipsum dolor sit amet consectetur.
 team:
-  title: Our Amazing Team
+  title: Team
   top-description: Lorem ipsum dolor sit amet consectetur.
   bottom-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
     eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
@@ -67,10 +67,10 @@ about-end-timeline:
 people-list:
 - name: Kay Garland
   pic: 1
-  position: Lead Designer
+  position: Designer
   social-list:
-  - title: twitter
-    url: https://twitter.com
+  - title: search
+    url: https://google.com
   - title: facebook
     url: https://facebook.com
   - title: stack-overflow
@@ -79,18 +79,18 @@ people-list:
   pic: 2
   position: Lead Marketer
   social-list:
-  - title: twitter
-    url: https://twitter.com
+  - title: search
+    url: https://google.com
   - title: facebook
     url: https://facebook.com
   - title: linkedin
     url: https://linkedin.com
 - name: Diana Petersen
   pic: 3
-  position: Lead Developer
+  position: Developer
   social-list:
-  - title: twitter
-    url: https://twitter.com
+  - title: search
+    url: https://google.com
   - title: facebook
     url: https://facebook.com
   - title: linkedin
